@@ -1,0 +1,37 @@
+/***======================= FONTS-SETTING =======================***/
+/***============================================================***/
+
+/* 1.Verdana *************************/
+/****************************************************/
+@font-face {
+	/* name font */
+	font-family: 'neye-800';
+	/* URL font and type */
+	src: url("../fonts/NeueMachina-Black-800.woff2") format("truetype"); 
+	font-style: normal; 
+	font-weight: 800; 
+} 
+@font-face {
+	/* name font */
+	font-family: 'gotham-400';
+	/* URL font and type */
+	src: url("../fonts/GothamPro-regular-400.woff2") format("truetype"); 
+	font-style: normal; 
+	font-weight: 400;
+}
+@font-face {
+	/* name font */
+	font-family: 'gotham-500';
+	/* URL font and type */
+	src: url("../fonts/GothamPro-Medium500.woff2") format("truetype"); 
+	font-style: normal; 
+	font-weight: 500;
+}
+@font-face {
+	/* name font */
+	font-family: 'gotham-700';
+	/* URL font and type */
+	src: url("../fonts/GothamPro-Bold-700.woff2") format("truetype"); 
+	font-style: normal; 
+	font-weight: 700;
+}
